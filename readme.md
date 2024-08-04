@@ -11,5 +11,4 @@
 3. mmmmm 
 4. gfbdhvfdsg 
 
-(![he](image.png))
 (![he](image-1.png))
